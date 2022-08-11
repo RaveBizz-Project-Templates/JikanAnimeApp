@@ -1,7 +1,7 @@
 # JikanAnimeApp
 
-- [Wireframes][https://whimsical.com/jikan-superhero-app-UB7USHkr4cs5MTaCkvR9Ew]
-- [Project Board][https://ravebizz.notion.site/5510b08859d94a09b202fb31a648acc8?v=4a519058dfa24557accb2725daf12c8f]
+- [Wireframes](https://whimsical.com/jikan-superhero-app-UB7USHkr4cs5MTaCkvR9Ew)
+- [Project Board](https://ravebizz.notion.site/5510b08859d94a09b202fb31a648acc8?v=4a519058dfa24557accb2725daf12c8f)
 
 
 # Acceptance Criteria:
